@@ -155,14 +155,14 @@ const Hero = () => {
               >
                 Let's Connect
               </button>
-              <Button
+              {/* <Button
                 variant="outline"
                 size="lg"
                 className="border-secondary text-secondary hover:bg-secondary hover:text-secondary-foreground"
               >
                 <Download className="h-4 w-4 mr-2" />
-                Download CV
-              </Button>
+                Download CV */}
+              {/* </Button> */}
             </motion.div>
 
             {/* Social Links */}
