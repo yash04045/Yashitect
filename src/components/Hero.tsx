@@ -111,8 +111,7 @@ const Hero = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.6 }}
               >
-                <span className="block">Yash</span>
-                <span className="block gradient-text">Singh</span>
+                Yash <span className="gradient-text">Singh</span>
               </motion.h1>
               
               <div className="h-8">
